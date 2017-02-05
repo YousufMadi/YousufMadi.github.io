@@ -1,0 +1,76 @@
+body {
+	font-size: 16px;
+	color: #fff;
+	background-color: #ffeee6;
+	font-family: 'Oxygen', sans-serif;
+}
+.row {
+	width: 100%;
+}
+/**: HEADER :**/
+#header-nav {
+	background-color: #ffa880;
+	border-radius: 0;
+	border: 0;
+}
+
+.navbar-brand {
+	padding-top: 25px;
+}
+
+.navbar-brand h1 {
+	font-size: 1.5em;
+	text-transform: uppercase;
+	font-weight: bold;
+	text-shadow: 1px 1px 1px #222;
+	margin-top: 0;
+	margin-bottom: 0;
+	line-height: .75;
+}
+
+#nav-list {
+	margin-top: 0;
+	margin-bottom: 0;
+}
+#nav-list a {
+	color: #3131b4;
+	text-align: center;
+	background-color: #a5cbde;
+	border-bottom: 1px solid black;
+}
+#nav-list a:hover {
+	background: #e7e7e7;
+}
+#nav-list a span {
+	font-size: 1.8em;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+	border: 1px solid #337AB9;
+}
+li a span {
+	margin-right: 10px;
+}
+
+/** HEADING **/
+.container h1.text-center {
+	color: #669999;
+}
+
+/** BODY STYLES **/
+
+/***CONTENT***/
+#chicken-descriptions {
+	border: 1px solid transparent;
+	background-color: #999999;
+	height: 1000px;
+}
+
+p {
+	color: black;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+
+

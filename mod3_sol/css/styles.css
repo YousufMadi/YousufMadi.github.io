@@ -68,8 +68,11 @@ li a span {
 
 p {
 	color: black;
-	margin-right: auto;
-	margin-left: auto;
+}
+
+#food-descriptions p {
+	margin-right: 15px;
+	margin-left: 15px;
 }
 
 
